@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Matheus Cavalheiro👋
 
-- 🌱 No momento estou aprendendo Flask, HTML e CSS.
-- 👯 Estou procurando colaborar no Front-End.
-- 🤔 Estou procurando ajuda com Back-End. 
+- 🌱 No momento estou aprendendo Ethical Hacking .
+- 👯 Estou procurando colaborar em CyberSec. 
+- 🤔 Estou procurando ajuda.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
